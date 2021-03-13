@@ -48,7 +48,7 @@ ___
 Mede a variabilidade da frequência cardíaca.
 
 <img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/card02.png" height="300">
-Exemplo da variabilidade da frequência cardíaca antes e durante exercício de relaxamento.
+Exemplo da variabilidade da frequência cardíaca antes e durante um exercício de relaxamento.
 
 
 
