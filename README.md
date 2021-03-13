@@ -9,10 +9,9 @@ Utiliza o microcontrolador Attiny-13 no lugar do Arduino, para capturar o sinal 
 A cor do LED varia, na escala de cores da luz visível, de acordo com o nível de excitação emocional. Por exemplo, azul baixa excitação emocional e vermelho alta excitação emocional. 
 
 <img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/stress01.png" height="300">
+Modelo 1
 <img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/stress02.png" height="300">
-
-Utiliza o microcontrolador Atiny-13 no lugar do Arduino, para capturar o sinal de condutância da pele.
-
+Modelo 2
 
 ## SUPER.ino
 
