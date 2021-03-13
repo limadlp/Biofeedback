@@ -1,5 +1,5 @@
-# Biofeedback
-Biofeedback com Arduino
+# Biofeedback com Arduino
+
 Circuitos para capturar biosinais com arduino em tempo real
 
 
