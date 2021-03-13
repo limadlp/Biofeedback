@@ -6,7 +6,7 @@ Circuitos e códigos para capturar biosinais com arduino em tempo real
 ## RGBGSRATtiny.ino
 
 Utiliza o microcontrolador Attiny-13 no lugar do Arduino, para capturar o sinal de condutância da pele (GSR).
-A cor do LED varia, na escala de cores da luz visível, de acordo com o nível de excitação emocional. Por exemplo, azul baixa excitação emocional e vermelho alta excitação emocional. 
+A cor do LED varia, discretamente, na escala de cores da luz visível, de acordo com o nível de excitação emocional. Por exemplo, azul baixa excitação emocional e vermelho alta excitação emocional. 
 
 <img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/stress01.png" height="300">
 Modelo 1
