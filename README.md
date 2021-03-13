@@ -11,6 +11,7 @@ A cor do LED varia, na escala de cores da luz visível, de acordo com o nível d
 <img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/stress01.png" height="300">
 Modelo 1
 
+## -
 
 <img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/stress02.png" height="300">
 Modelo 2
@@ -27,7 +28,6 @@ Mede simultaneamente a frequência cardíaca, a condutância da pele e a frequê
 <img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/biosig01.jpg" height="300">
 Exemplo de sinal obtido ao jogar Street Fighter V.
 
-A condutância da pele pode ser utilizada para encontrar a fase de sono REM.
 ___
 
 ## ECG.ino
@@ -40,6 +40,7 @@ Mede a frequência cardíaca.
 Também pode ser utilizado, se tratado os dados, para medir ondas cerebrais.
 
 <img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/eeg02.png" height="300">
+
 ___
 
 ## ECG.pde
