@@ -1,6 +1,6 @@
 # Biofeedback com Arduino
 
-Circuitos para capturar biosinais com arduino em tempo real
+Circuitos e códigos para capturar biosinais com arduino em tempo real
 
 
 ## RGBGSRATtiny.ino
@@ -14,6 +14,7 @@ Modelo 1
 
 <img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/stress02.png" height="300">
 Modelo 2
+
 ___
 
 ## SUPER.ino
