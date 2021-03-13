@@ -20,27 +20,27 @@ Modelo 2
 Mede simultaneamente a frequência cardíaca, a condutância da pele e a frequência respiratória.
 
 
-<img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/biosig01.jpg" height="500">
+<img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/biosig01.jpg" height="300">
 Exemplo de sinal obtido ao jogar Street Fighter V.
 
 A condutância da pele pode ser utilizada para encontrar a fase de sono REM.
 
 ## ECG.ino
 
-<img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/eeg01.png" height="500">
+<img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/eeg01.png" height="300">
 
 Mede a frequência cardíaca. 
-<img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/card01.png" height="500">
+<img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/card01.png" height="300">
 
 Também pode ser utilizado, se tratado os dados, para medir ondas cerebrais.
 
-<img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/eeg02.png" height="500">
+<img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/eeg02.png" height="300">
 
 ## ECG.pde
 
 Mede a variabilidade da frequência cardíaca.
 
-<img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/card02.png" height="500">
+<img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/card02.png" height="300">
 Exemplo da variabilidade da frequência cardíaca antes e durante exercício de relaxamento.
 
 
