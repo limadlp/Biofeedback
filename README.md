@@ -11,7 +11,7 @@ A cor do LED varia, na escala de cores da luz visível, de acordo com o nível d
 <img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/stress01.png" height="300">
 Modelo 1
 
-## -
+--
 
 <img src="https://raw.githubusercontent.com/limadlp/Biofeedback/main/img/stress02.png" height="300">
 Modelo 2
